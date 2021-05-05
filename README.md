@@ -1,2 +1,2 @@
 # python_task
-Its included python  assignment
+Its included python  assignments
